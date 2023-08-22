@@ -1,6 +1,6 @@
 ### Hi there, I'm Louise! 👋  
  
-<img align="right" alt="GIF" src="https://github.com/8Lou/8lou_main/blob/main/code.gif" width="300" height="120" />
+<img align="right" alt="GIF" src="https://github.com/8Lou/code.gif" width="300" height="120" />
 
 ### I'm a Frontend Developer!
 
