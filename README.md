@@ -26,7 +26,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/8Lou/code.gif" width="300" height="150" />
+<img align="right" alt="GIF" src="https://github.com/8Lou/8Lou/blob/main/code.gif" width="300" height="150" />
 
 
 ### Connect with me :
