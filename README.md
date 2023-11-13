@@ -37,12 +37,14 @@
 
 **Back-end**
 
-// ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
+<br />
 
 **Databases**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
+<br />
+
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -56,8 +58,6 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-
-
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%232c3e50?style=flat-square&logo=github)
 ![Apache](https://img.shields.io/badge/-Apache-f8f2ef?style=flat-square&logo=Apache&logoColor=orange)
