@@ -36,8 +36,9 @@
 ## Technology stack
 
 **Back-end**
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
+</div>
 <br />
 
 **Databases**
@@ -51,7 +52,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-// ![JQuery](https://img.shields.io/badge/JQuery-%232c3e50?style=flat-square&logo=JQuery&logoColor=61DAFB)
 
 
 **Tools**
@@ -63,12 +63,12 @@
 ![Apache](https://img.shields.io/badge/-Apache-f8f2ef?style=flat-square&logo=Apache&logoColor=orange)
 
 **Learning**
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;  
-
+</div>
 ## About my Github:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Lou&theme=nord_dark) <br>
