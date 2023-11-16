@@ -71,6 +71,23 @@
 </div>
 <br />
 
+## My last projects:
+### REACT
+
+https://8lou.github.io/react_app/
+
+https://8Lou.github.io/dogfood_12_lou
+
+https://8lou.github.io/diplom-project-2023
+
+### JavaScript
+
+https://8lou.github.io/about_me
+
+https://8lou.github.io/Cats_like_Lou_from_D_S
+
+https://8lou.github.io/lou_weather
+
 ## About my Github:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Lou&theme=nord_dark) <br>
