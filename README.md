@@ -74,6 +74,8 @@
 ## My last projects:
 ### REACT
 
+- https://8lou.github.io/carousel_component/
+
 - https://8lou.github.io/react_app/
 
 - https://8Lou.github.io/dogfood_12_lou
@@ -81,6 +83,8 @@
 - https://8lou.github.io/diplom-project-2023
 
 ### JavaScript
+
+- https://8lou.github.io/slider/
 
 - https://8lou.github.io/about_me
 
