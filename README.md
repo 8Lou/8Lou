@@ -26,7 +26,6 @@
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/>](https://t.me/Louiset)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.cn/in/)
-[<img align="left" alt="sumit" width="40px" src="https://www.codingame.com/profile/1a03ac319d1a9150f916410b43b1aef02715243"/>](https://www.codingame.com/profile/1a03ac319d1a9150f916410b43b1aef02715243)
 [<img align="left" alt="sumit" width="40px" src="https://docs.codewars.com/logo.svg"/>](https://www.codewars.com/users/Lou8)
 [<img align="left" alt="sumit" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/>](https://codepen.io/vydroz)
 <br />
