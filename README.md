@@ -43,6 +43,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bash.svg" alt="Bash"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg" alt="MySQL"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="40">
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firebase.svg" alt="FireBase"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/nodejs.svg" alt="Node.js"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg" alt="Postman"></a> &nbsp;&nbsp;
