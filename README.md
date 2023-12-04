@@ -110,7 +110,10 @@
 ![](https://komarev.com/ghpvc/?username=8Lou)
 <!--
 **8Lou/8Lou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div><img align="right" alt="GIF" src="https://github.com/8Lou/8Lou/blob/main/code.gif" />
+</div>
+<br />
+<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
