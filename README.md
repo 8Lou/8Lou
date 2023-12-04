@@ -1,6 +1,7 @@
-### Hi there, I'm Louise! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Frontend+developer)](https://git.io/typing-svg)
+<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/dca7470cfa706a62a0d2a3adedbfe075/fire.gif" alt="header" align="center">
+</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm Louise!+I'm+a+Frontend+developer)](https://git.io/typing-svg) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<p><b>My motivation</b>: <i>"Later is never"</i></p>
+<br><br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
@@ -99,8 +100,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8Lou&theme=nord_dark) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8Lou&theme=nord_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8Lou&theme=nord_dark&utcOffset=8)
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
