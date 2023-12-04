@@ -27,7 +27,7 @@
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/>](https://t.me/Louiset)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.cn/in/)
 [<img align="left" alt="sumit" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/Louis-S-the-encoder)
-[<img align="left" alt="sumit" width="40px" src="https://docs.codewars.com/logo.svg"/>](https://www.codewars.com/users/Lou8)
+[<img align="left" alt="sumit" width="35px" src="https://docs.codewars.com/logo.svg"/>](https://www.codewars.com/users/Lou8)
 <br />
 <br />
 
@@ -49,7 +49,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp;
 </p>
 
-**Learning**
+### Learning ⏱
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;  
