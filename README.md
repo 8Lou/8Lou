@@ -9,6 +9,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+        alt="java" width="40" height="40"
+    />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -112,11 +119,11 @@
 <br><br>
 <div align="center">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" />  with<img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" />
-</div><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;</p>
+</div></p>
 <!-- Skill & Tools**
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,perl,py,r,react,solidity,ts" />
   <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
   <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
   <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
-  </p> -->
+  </p> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;-->
