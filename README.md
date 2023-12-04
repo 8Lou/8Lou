@@ -114,12 +114,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<td>Tools I Use</td>
-<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
-</tr>
-<tr>
-</tr>
-</table>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
