@@ -79,6 +79,11 @@
 
 - https://8lou.github.io/lou_weather
 
+<p align="center">
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+ 
 ### About my Github:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Lou&theme=nord_dark) <br>
