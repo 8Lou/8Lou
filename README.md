@@ -1,8 +1,4 @@
     <img align="right" alt="GIF" src="https://github.com/8Lou/8Lou/blob/main/code.gif" />
-<br><br>
-
-<!-- <img src="https://ntmaker.gfto.ru//animtilestext//data/fire/ed09aef4368677cf81b9c1da0c30f6c1/fire.gif" alt="header" align="center">
-<br><br> -->
 
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm Louise!+I'm+a+Frontend+developer)](https://git.io/typing-svg) 
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
