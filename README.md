@@ -3,7 +3,7 @@
 <br />
 <br />
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm Louise!+I'm+a+Frontend+developer)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm Louise!+I'm+a+Frontend+developer)](https://git.io/typing-svg) 
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
 <br />
 <br />
