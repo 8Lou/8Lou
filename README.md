@@ -65,6 +65,7 @@
 </div>
 <br />
 <br />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Motivation:+"Later+is+never")](https://git.io/typing-svg)
   
 <!--📏LINE-->
