@@ -27,7 +27,10 @@
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/>](https://t.me/Louiset)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.cn/in/)
 [<img align="left" alt="sumit" width="40px" src="https://docs.codewars.com/logo.svg"/>](https://www.codewars.com/users/Lou8)
-[<img align="left" alt="sumit" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/>](https://codepen.io/vydroz)
+[<img align="left" alt="sumit" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/>](https://codepen.io/Louis-S-the-encoder)
+[<img align="left" alt="sumit" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/Louis-S-the-encoder)
+
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicesapien" height="30" width="40" /></a>
 <br />
 <br />
 
