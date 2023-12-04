@@ -114,12 +114,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" />  with<img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" />
 </div></p>
-<!-- Skill & Tools**
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,perl,py,r,react,solidity,ts" />
-  <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
-  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
+
   <!-- Random Wallpaper -->
 <details open> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
@@ -129,4 +124,11 @@
 <!--END_SECTION:update_image-->
 
 </details>
+
+<!-- Skill & Tools**
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,perl,py,r,react,solidity,ts" />
+  <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
   </p> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;-->
