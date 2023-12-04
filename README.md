@@ -34,7 +34,7 @@
 <br />
 <br />
 
-## Technology stack
+### Technology stack
 
 **Back-end**
 <div>
@@ -72,7 +72,7 @@
 </div>
 <br />
 
-## My last projects:
+### My last projects:
 ### REACT
 
 - https://8lou.github.io/carousel_component/
@@ -93,7 +93,7 @@
 
 - https://8lou.github.io/lou_weather
 
-## About my Github:
+### About my Github:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Lou&theme=nord_dark) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Lou&theme=nord_dark) 
