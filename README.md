@@ -73,6 +73,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br />
 <br />
+  
 ### My last projects ⏱
 ### REACT
 
@@ -118,6 +119,9 @@
 
 ![](https://komarev.com/ghpvc/?username=8Lou)
 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcde&size=22&lines=Designer+at+night,;I+like+a+nice+music...;Thank+you+for+visit!;" /></a>
+</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
