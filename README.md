@@ -1,4 +1,5 @@
-<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/dca7470cfa706a62a0d2a3adedbfe075/fire.gif" alt="header" align="center">
+<img src="https://ntmaker.gfto.ru//animtilestext//data/fire/ed09aef4368677cf81b9c1da0c30f6c1/fire.gif" alt="header" align="center">
+<br><br>
 </h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm Louise!+I'm+a+Frontend+developer)](https://git.io/typing-svg) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
 <br><br>
