@@ -1,6 +1,6 @@
-### Hi there, I'm Louise! 👋  
- 
-### I'm a Frontend Developer!
+### Hi there, I'm Louise! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Frontend+developer)](https://git.io/typing-svg)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
@@ -101,6 +101,14 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8Lou&theme=nord_dark&utcOffset=8)
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
 
 
 ![](https://komarev.com/ghpvc/?username=8Lou)
