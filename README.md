@@ -22,10 +22,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Motivation:+"Later+is+never")](https://git.io/typing-svg)
 <br />
 <br />
+
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+ <!--  <tr>
+    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+  </tr> -->
+ </table>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-### My environment 🔗
+<br />
+<br />
+ ### My environment 🔗
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/>](https://t.me/Louiset)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.cn/in/)
