@@ -22,10 +22,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Motivation:+"Later+is+never")](https://git.io/typing-svg)
 <br />
 <br />
-### Connect with me :
+### My environment:
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/>](https://t.me/Louiset)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.cn/in/)
+<a href="https://codepen.io/vydroz"><img border="0"  width="40px" alt="CodePen | Vydroz" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/></a>
+<a href="https://www.codingame.com/profile/1a03ac319d1a9150f916410b43b1aef02715243"><img border="0"  width="40px" alt="Coding Game | Vydroz" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg"/></a>
 <a href="https://www.codewars.com/users/VydrOz"><img border="0" width="40px" alt="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg"/></a>
 [<img align="left" alt="sumit" width="40px" src="https://i.imgur.com/IsS5xkZ.png"/>](https://leetcode.com/lou8/)
 
