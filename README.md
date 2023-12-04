@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">&nbsp;
     
@@ -120,4 +120,13 @@
   <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
   <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
   <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
+  <!-- Random Wallpaper -->
+<details open> 
+  <summary><h2>🌠 Wallpaper of the Day</h2></summary>
+ 
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/unknown-elephants-green-mountain.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<!--END_SECTION:update_image-->
+
+</details>
   </p> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;-->
