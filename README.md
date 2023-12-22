@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://github.com/quiet-node">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Hello World!;I'm+Louise.;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Hello World!;Frontend+Developer;" /></a>
 </p<p align="left">
   <a href="https://github.com/quiet-node">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Junior+Smart+Contract+Developer+;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=I'm+Louise.;And+Junior+Smart+Contract+Developer+;" /></a>
 </p>
 
 <div>
