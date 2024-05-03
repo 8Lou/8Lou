@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;  
@@ -19,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>&nbsp;
   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">&nbsp;
     
 </div>
@@ -50,6 +52,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bash.svg" alt="Bash"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg" alt="MySQL"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="40">
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firebase.svg" alt="FireBase"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/nodejs.svg" alt="Node.js"></a> &nbsp;&nbsp;
@@ -60,8 +63,10 @@
 ### Learning 📚
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Docker" **alt="Graphql" width="40" height="40"/>&nbsp;
 </div>
 <br />
 <br />
