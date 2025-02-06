@@ -88,14 +88,11 @@
 
 - https://8lou.github.io/react_app/
 
-- https://8Lou.github.io/dogfood_12_lou
-
 - https://8Lou.github.io/layout_to_React
-
-- https://8lou.github.io/diplom-project-2023
 
 
 ### JavaScript
+- https://8lou.github.io/ti_digital_academy/
 
 - https://8lou.github.io/slider/
 
