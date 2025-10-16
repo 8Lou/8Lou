@@ -82,7 +82,7 @@
 ### My last projects ⏱
 ### REACT
 
-- [https://8lou.github.io/Form/](https://8lou.github.io/kanban_react/)
+- https://8lou.github.io/kanban_react/
 
 - https://8lou.github.io/Form_2/
 
