@@ -84,6 +84,8 @@
 
 - https://8lou.github.io/kanban_react/
 
+- https://8lou.github.io/kanban_react/](https://8lou.github.io/SaaS-Analytics-deployment/
+
 - https://8lou.github.io/Form_2/
 
 - https://8lou.github.io/Form/
