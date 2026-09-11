@@ -82,6 +82,8 @@
 ### My last projects ⏱
 ### REACT
 
+- https://8lou.github.io/monarch_publik/
+
 - https://8lou.github.io/kanban_react/
 
 - https://8lou.github.io/SaaS-Analytics-deployment/
